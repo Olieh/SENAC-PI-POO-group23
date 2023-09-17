@@ -5,3 +5,4 @@
 - Helio Akihiko Endo
 - Francisco Iago Freistas
 - Vinicius de Freitas Duarte
+- Yuri Telesca
